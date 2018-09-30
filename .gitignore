@@ -1,0 +1,5 @@
+*.iml
+.idea/
+*.kml
+LocationHistory.json
+/target
