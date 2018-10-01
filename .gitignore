@@ -3,3 +3,4 @@
 *.kml
 LocationHistory.json
 /target
+*.log
